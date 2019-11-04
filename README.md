@@ -1,4 +1,4 @@
-# To-Do-List My-First-Angular-App
+# Angular App of Simple CRUD
 
 > This simple CRUD is app that I made using Angular
 
